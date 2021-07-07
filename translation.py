@@ -25,9 +25,9 @@ Made by @hollybolly_films
     ABOUT_TEXT = """
 - **Bot :** `URL Uploader`
 - **Creator :** [HBF](https://telegram.me/hollybolly_films)
-- **Channel :** [Fayas Noushad](https://telegram.me/hollybolly_films)
+- **Channel :** [HollyBolly Films](https://telegram.me/hollybolly_films)
 - **Credits :** `Everyone in this journey`
-- **Source :** [Click here](https://github.com/FayasNoushad/URL-Uploader)
+- **Source :** [Click here](https://telegram.me/hollybolly_films)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
